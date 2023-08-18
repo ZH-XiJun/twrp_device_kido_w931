@@ -1,4 +1,7 @@
-# Android device tree for qihoo W931 (w931)
+# TWRP device tree for qihoo W931 (w931)
+**STATUS: ALL WORK FINE**
+## Download
+Go to [Releases](https://github.com/zh-xijun/twrp_device_kido_w931/releases)
 
 ```
 #
